@@ -1,0 +1,22 @@
+[
+  {
+    "arquivo_original": "folheto-variacao-consumo.pdf",
+    "arquivo_processado": "manual_folheto-variacao-consumo.txt",
+    "categoria": "manual",
+    "num_paginas": 8,
+    "num_caracteres": 4195,
+    "num_palavras": 696,
+    "data_coleta": "2026-11-12",
+    "fonte": "/content/drive/MyDrive/trabalho_TCP2/Arquivo/Sabesp"
+  },
+  {
+    "arquivo_original": "folheto-manual-instalacao-hidraulica.pdf",
+    "arquivo_processado": "manual_folheto-manual-instalacao-hidraulica.txt",
+    "categoria": "manual",
+    "num_paginas": 9,
+    "num_caracteres": 8488,
+    "num_palavras": 1402,
+    "data_coleta": "2026-11-12",
+    "fonte": "/content/drive/MyDrive/trabalho_TCP2/Arquivo/Sabesp"
+  }
+]

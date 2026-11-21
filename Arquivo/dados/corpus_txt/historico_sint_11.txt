@@ -1,0 +1,46 @@
+Assunto: Revisão de conta
+
+Cliente 09:05
+Oi
+
+Bot 09:07
+Motivo da revisão: 1. Vazamento 2. Aferição de hidrômetro 3. Falta de água 4. Erro de leitura 5. Categoria residencial/comercial
+
+Cliente 09:09
+1
+
+Bot 09:11
+Para revisão por vazamento, informe o CDC-DV e quais contas deseja revisar, e envie: laudo/declaração de conserto do vazamento assinado à mão (modelo anexo); fotos do conserto; documento que vincule ao imóvel, caso a conta não esteja em seu nome (não aceitamos IPTU); e documento pessoal frente e verso. Se o vazamento foi na boia da caixa d'água ou da caixa acoplada, a nota fiscal da compra e a foto da boia são obrigatórias.
+
+Cliente 09:13
+CDC [CDC]. Quero revisar a conta de outubro, vencimento dia 20.
+
+Atendente 09:15
+Bom dia! Aguardo o envio do laudo, das fotos do conserto e dos documentos.
+
+Cliente 09:17
+O vazamento foi na torneira, já substituí. Segue minha CNH.
+
+Atendente 09:19
+Qual o seu vínculo com o imóvel?
+
+Cliente 09:21
+Sou a dona, esposa do titular da conta.
+
+Atendente 09:23
+Como a senhora é a solicitante, precisamos da sua documentação pessoal e da certidão de casamento. E um e-mail para contato, por favor.
+
+Cliente 09:25
+Ok. [EMAIL]
+
+Atendente 09:27
+O endereço é [ENDERECO]? Deseja revisar apenas o vencimento de outubro?
+
+Cliente 09:29
+Sim
+
+Atendente 09:31
+Vamos encaminhar os documentos para análise do setor responsável e entraremos em contato com o número da ordem de serviço.
+
+Cliente 09:33
+Muito obrigada

@@ -1,0 +1,10 @@
+[CORPUS SINTÉTICO | geral | horarios_locais_atendimento]
+Unidades de Atendimento Presencial do SAAE São Carlos:
+Funcionamento: segunda a sexta-feira, das 8h às 16h. Não há atendimento aos sábados, domingos ou feriados.
+
+Unidades disponíveis:
+- UAU Centro (UAU-C): Rua Sete de Setembro, 2152
+- UAU Cidade Aracy (UAU-CA): Rua Lucy Serillo, 155
+- UAU Vila Prado (UAU-VP): Rua Bernardino de Campos, 636
+
+Para serviços de emergência fora do horário comercial (vazamentos na rua, falta de água), o usuário deve entrar em contato com a central de atendimento pelo telefone 0800 300 1520, disponível 24 horas.

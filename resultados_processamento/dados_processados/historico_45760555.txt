@@ -1,0 +1,69 @@
+Karen [TELEFONE]34
+Assunto:
+2ª via de conta
+Resumo:
+-
+Mensagens do chamado
+03/08/2026
+Início do chamado -Atendimento (Fila) - 03/08/2026 10:36:08
+Karen 10:33
+Bom dia
+Bot 10:36
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]779
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Karen 10:40
+1
+Bot 10:40
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+Karen 10:41
+2
+Bot 10:41
+Obtenha a fatura através do link:
+https://agenciavirtualsaocarlos.cebicloud.com.br/agencia/extern
+al.html#/contaSimplificada
+Não conseguiu? Nos informe:
+- CDC-DV;
+- Nome completo;
+- CPF/ CNPJ;
+- Caso deseje envio por e-mail, informe o e-mail desejado.
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Karen 10:41
+Karen Augusto
+[CPF]
+[EMAIL]
+Jéssica 11:15
+Jéssica. Por gentileza, com quem eu falo?
+Karen 11:16
+Bom dia
+Karen
+Jéssica 11:31
+Confirma o endereço
+Karen 11:31
+Rua Antônio pirola, 197 Vila alpes
+Jéssica 12:34
+Segunda via enviado no e-mail informado. Chega dentro de
+15min. Posso ajudar com algo mais?
+Karen 12:34
+Só isso, obrigada

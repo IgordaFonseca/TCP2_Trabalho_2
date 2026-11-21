@@ -1,0 +1,46 @@
+Assunto: Ordem de serviço
+
+Cliente 14:10
+Boa tarde
+
+Bot 14:12
+Para alteração de titularidade, use a atualização cadastral no site do SAAE. Não conseguiu? Envie: documento que vincule ao imóvel (contrato de compra e venda, escritura, matrícula ou contrato de locação com firma reconhecida; não aceitamos IPTU) ou o Termo de Responsabilidade (arquivo anexo) preenchido à mão; documento pessoal frente e verso; e o CDC-DV. Se for terceiro, é necessária procuração com firma reconhecida.
+
+Cliente 14:14
+Quero alterar a titularidade da conta [CDC]. Está no nome da minha filha, mas sou eu quem paga.
+
+Atendente 14:16
+Boa tarde! Envie o documento que vincule ao imóvel ou o termo preenchido à mão, e o documento pessoal frente e verso.
+
+Cliente 14:18
+Tentei pelo site, mas no 0800 me orientaram a fazer por aqui porque o site está instável. Segue o termo de inclusão preenchido.
+
+Atendente 14:20
+Envie também a documentação pessoal, por favor.
+
+Cliente 14:22
+Segue a CNH
+
+Atendente 14:24
+O endereço é [ENDERECO] e o e-mail para contato é [EMAIL]?
+
+Cliente 14:26
+Exato
+
+Atendente 14:28
+Vamos encaminhar os documentos para análise do setor responsável e entraremos em contato com o número da ordem de serviço.
+
+Cliente 14:30
+Em quanto tempo fica pronto?
+
+Atendente 14:32
+O procedimento é feito conforme a demanda, sem prazo exato. Por este canal fazemos a análise dos documentos e a abertura da ordem de serviço; a execução é feita por outro setor. O senhor pode nos contatar nos próximos dias para verificar.
+
+Cliente 14:34
+Vocês mandam o número da ordem de serviço por aqui? Esse é o protocolo da solicitação?
+
+Atendente 14:36
+Esse é o protocolo do atendimento. A ordem de serviço será enviada por aqui ou por e-mail.
+
+Cliente 14:38
+Ok, obrigado

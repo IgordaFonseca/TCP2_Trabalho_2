@@ -1,0 +1,72 @@
+Naty Lopes [TELEFONE]14
+Assunto:
+2ª via de conta
+Resumo:
+-
+Mensagens do chamado
+30/09/2026
+Início do chamado -Atendimento (Fila) - 30/09/2026 17:33:08
+Naty Lopes 17:33
+Olá
+Bot 17:33
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]060
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Naty Lopes 17:33
+1
+Bot 17:33
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+Naty Lopes 17:33
+2
+Bot 17:33
+Obtenha a fatura através do link:
+https://agenciavirtualsaocarlos.cebicloud.com.br/agencia/extern
+al.html#/contaSimplificada
+Não conseguiu? Nos informe:
+- CDC-DV;
+- Nome completo;
+- CPF/ CNPJ;
+- Caso deseje envio por e-mail, informe o e-mail desejado.
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Naty Lopes 17:35
+55301-86
+Ronaldo César Lopes
+[TELEFONE]
+Analice 17:35
+Olá, boa tarde!
+Naty Lopes 17:35
+Ronaldo
+Analice 17:36
+55301-residuos.pdf
+Analice17:36
+55301.pdf
+Analice 17:36
+Favor conferir o CDC-DV e o endereço antes de efetuar o
+pagamento
+Analice 17:36
+Ajudo com algo mais?
+Naty Lopes 17:36
+Ok
+Naty Lopes 17:36
+Obrigado

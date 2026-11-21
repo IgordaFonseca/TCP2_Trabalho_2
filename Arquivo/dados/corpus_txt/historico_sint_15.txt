@@ -1,0 +1,28 @@
+Assunto: Ordem de serviço
+
+Cliente 09:05
+Bom dia! Gostaria de solicitar o conserto de um vazamento na frente de casa.
+
+Bot 09:07
+Onde é o vazamento? 1. Rua 2. Calçada 3. Cavalete 4. Esgoto entupido 5. Esgoto vazando 6. Mau cheiro de esgoto 7. Troca de registro do cavalete 8. Limpeza de fossa séptica
+
+Cliente 09:09
+2
+
+Bot 09:11
+Informe o nome completo do solicitante e o CDC-DV ou o endereço do local. Se puder, envie fotos.
+
+Cliente 09:13
+[NOME], CDC [CDC]
+
+Atendente 09:15
+Bom dia! Por favor, responda: o vazamento é no asfalto ou na calçada? Qual o endereço completo? É água limpa ou esgoto? É de pequena, média ou grande proporção? Há algum ponto de referência?
+
+Cliente 09:17
+Calçada. [ENDERECO]. Água limpa, média proporção. Fica dentro do condomínio.
+
+Atendente 09:19
+Gerada a ordem de serviço [PROTOCOLO]. A equipe irá ao local conforme a demanda. Posso ajudar em algo mais?
+
+Cliente 09:21
+Ok, obrigada

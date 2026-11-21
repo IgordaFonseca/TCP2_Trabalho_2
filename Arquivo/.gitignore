@@ -1,0 +1,8 @@
+# Dados reais do SAAE (restritos — LGPD): nunca versionar
+Historico_Atendimento/
+resultados_processamento/
+*.pdf
+# Saídas geradas pelo caderno
+resultados/
+.ipynb_checkpoints/
+.env

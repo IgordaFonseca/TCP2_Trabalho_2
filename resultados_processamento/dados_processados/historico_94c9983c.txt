@@ -1,0 +1,75 @@
+Jonatas [TELEFONE]9
+Assunto:
+2ª via de conta
+Resumo:
+-
+Mensagens do chamado
+01/07/2026
+Início do chamado -Atendimento (Fila) - 01/07/2026 12:04:39
+Jonatas 12:04
+Olá
+Bot 12:04
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]458
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Jonatas 12:04
+1
+Bot 12:04
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+Jonatas 12:05
+8
+Bot 12:05
+Por favor, selecione a opção desejada:
+*1.* Sou proprietário
+*2.* Sou inquilino
+*3.* Sou imobiliária
+*0.* Retornar ao menu principal
+Jonatas 12:05
+2
+Bot 12:05
+Exclusão-de-Usuário.pdf
+Bot 12:05
+Favor enviar:
+- Documento pessoal frente e verso;
+- Termo de exclusão de usuário preenchido manualmente
+(arquivo acima). Caso não possua meio para impressão e
+preenchimento manual, o termo poderá ser feito todo
+manualmente, desde que siga o modelo enviado.
+*OBS:* a data ao final do documento deve ser a data que deixou
+de ser responsável pelo imóvel.
+Caso queira retornar ao menu principal digite o número *0.*
+Após os envios aguarde, que logo será atendido.
+Jonatas 12:05
+Jonatas 12:05
+End 12:16
+Olá, boa tarde!
+quem eu falo?
+Jonatas 12:19
+End 12:33
+Exclusão concluída. Protocolo: [TELEFONE]
+End 12:33
+Ajudo com algo mais?
+Jonatas 12:34
+Era isso mesmo
+Jonatas 12:34
+Obrigado!

@@ -1,0 +1,77 @@
+Thaynara [TELEFONE]67
+Assunto:
+2ª via de conta
+Resumo:
+-
+Mensagens do chamado
+30/09/2026
+Início do chamado -Atendimento (Fila) - 30/09/2026 16:52:59
+Thaynara 16:52
+Oi
+Bot 16:53
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]047
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Thaynara 16:53
+1
+Bot 16:53
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+Thaynara 16:53
+2
+Bot 16:53
+Obtenha a fatura através do link:
+https://agenciavirtualsaocarlos.cebicloud.com.br/agencia/extern
+al.html#/contaSimplificada
+Não conseguiu? Nos informe:
+- CDC-DV;
+- Nome completo;
+- CPF/ CNPJ;
+- Caso deseje envio por e-mail, informe o e-mail desejado.
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Thaynara 16:54
+Thaynara verginia de Souza cruz
+Thaynara 16:54
+[CPF]
+End 16:54
+Olá, boa tarde!
+quem eu falo?
+Thaynara 16:55
+Boa tarde
+Thaynara 16:55
+Thaynara
+End 16:55
+Confirme o endereço.
+Thaynara 16:55
+Rua doutor Silvio Antunes
+Thaynara 16:55
+Número 75
+End 16:57
+fb3cb277-eaa0-4c6f-af8f-18fac7825964.pdf
+End 16:57
+Favor conferir o CDC-DV e o endereço antes de efetuar o
+pagamento
+End 16:58
+Ajudo com algo mais?
+Thaynara 17:01
+Apenas, obrigada

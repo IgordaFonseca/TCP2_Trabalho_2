@@ -1,0 +1,86 @@
+[TELEFONE]33
+Assunto:
+2ª via de conta
+Resumo:
+-
+Mensagens do chamado
+04/05/2026
+Bot 14:54
+O SAAE agradece seu contato!
+Caso deseje mais informações envie mensagem ou ligue 0800
+300 1520.
+Início do chamado -Atendimento (Fila) - 04/05/2026 14:55:25
+14:55
+Boa tarde
+Bot 14:55
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]468
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+14:55
+2
+Bot 14:55
+Por favor, selecione uma opção:
+*1.* Hidrômetro
+*2.* Desabastecimento
+*3.* Supressão
+*4.* Religação
+*5.* Ligação Nova
+*6.* Vazamento/Manutenção
+*7.* Vistoria
+*8.* Resíduos
+*0.* Retorna ao menu anterior
+14:55
+7
+Bot 14:55
+Informe qual tipo de vistoria e aguarde para ser atendido:
+1. Vistoria da caixa padrão
+2. Vistoria para mudar categoria (comercial/residencial)
+3. Vistoria de Mudança de cavalete
+*0.* Retornar ao menu principal
+14:55
+1
+Bot 14:55
+Favor informar:
+- Nome completo do solicitante;
+- CDC-DV ou endereço do local;
+0. Retornar ao menu principal
+Aguarde para ser atendido.
+14:57
+Vanessa Danielly Meassi
+Rua Misael Felipe cordeiro
+113
+Analice 15:07
+Olá, boa tarde!
+gentileza, com quem eu falo?
+15:11
+Vanessa Danielly Meassi
+Analice 15:18
+Qual a ordem de serviço da solicitação de ligação nova?
+15:20
+[TELEFONE]
+Analice 15:23
+Rua Misael Felipe Cordeiro, 113?
+Analice 15:24
+A vistoria foi aprovada na data 23/04.
+15:24
+Sim
+Analice 15:24
+O prazo para ligação é de até 30 dias úteis.
+Analice 15:24
+Ajudo com algo mais?
+15:24
+Dispositivo externo 15:24
+O prazo para ligação é de até 30 dias úteis.
+Deu certo?
+Analice 15:31
+Sim, só aguardar o prazo.
+15:34
+Obrigada

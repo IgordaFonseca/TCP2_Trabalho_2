@@ -1,0 +1,28 @@
+Assunto: Ordem de serviço
+
+Cliente 09:05
+Bom dia!
+
+Bot 09:07
+Hidrômetro: 1. Aferição 2. Furtado 3. Danificado 4. Parado ou embaçado 5. Vazando 6. Lacrar hidrômetro
+
+Cliente 09:09
+5
+
+Bot 09:11
+Informe o CDC-DV e o nome completo do solicitante. Se possível, envie fotos e detalhes. Qual o volume do vazamento?
+
+Cliente 09:13
+[NOME]. Vazamento médio de água no hidrômetro.
+
+Atendente 09:15
+Bom dia! O vazamento é no hidrômetro ou no pé do cavalete? É de pequena, média ou grande proporção? Há ponto de referência?
+
+Cliente 09:17
+É no hidrômetro, média proporção, perto da pista.
+
+Atendente 09:19
+Gerada a ordem de serviço [PROTOCOLO]. A equipe irá conforme a demanda.
+
+Cliente 09:21
+Só isso, muito obrigada

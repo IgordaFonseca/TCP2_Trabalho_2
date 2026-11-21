@@ -1,0 +1,28 @@
+Assunto: Exclusão de usuário
+
+Cliente 14:10
+Boa tarde
+
+Bot 14:12
+Para exclusão de usuário, envie: documento pessoal frente e verso e o Termo de Exclusão de Usuário (anexo) preenchido à mão. Sem impressora, o termo pode ser escrito todo à mão seguindo o modelo. A data no fim do termo deve ser a data em que você deixou de ser responsável pelo imóvel.
+
+Cliente 14:14
+Segue a CNH e o termo de exclusão preenchido. Falei com vocês há pouco.
+
+Atendente 14:16
+Boa tarde! O endereço é [ENDERECO]?
+
+Cliente 14:18
+Isso
+
+Atendente 14:20
+Exclusão realizada. Chamado [PROTOCOLO]. Posso ajudar em algo mais?
+
+Cliente 14:22
+Então está feito? Pago a fatura atual e não vai ter outra para pagar, certo?
+
+Atendente 14:24
+Correto. A última conta de sua responsabilidade é a referência de junho, com vencimento em julho.
+
+Cliente 14:26
+Essa já paguei, obrigado

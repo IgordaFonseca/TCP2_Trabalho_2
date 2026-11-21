@@ -1,0 +1,68 @@
+Jessica [TELEFONE]23
+Assunto:
+2ª via de conta
+Resumo:
+-
+Mensagens do chamado
+30/07/2026
+Início do chamado -Atendimento (Fila) - 30/07/2026 10:28:01
+Jessica 10:27
+Bom dia
+Bot 10:28
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]849
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Jessica 10:28
+1
+Bot 10:28
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+Jessica 10:28
+2
+Bot 10:28
+Obtenha a fatura através do link:
+https://agenciavirtualsaocarlos.cebicloud.com.br/agencia/extern
+al.html#/contaSimplificada
+Não conseguiu? Nos informe:
+- CDC-DV;
+- Nome completo;
+- CPF/ CNPJ;
+- Caso deseje envio por e-mail, informe o e-mail desejado.
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Jessica 10:30
+CDC:119010-58
+Marcio Donizetti Pezotti Pan
+[CPF]
+[EMAIL]
+Analice 10:32
+Olá, bom dia!
+Jessica 10:32
+Analice10:35
+119010.pdf
+Analice 10:35
+Favor conferir o CDC-DV e o endereço antes de efetuar o
+pagamento
+Analice 10:35
+Ajudo com algo mais?
+Jessica 10:36
+Ok obrigada

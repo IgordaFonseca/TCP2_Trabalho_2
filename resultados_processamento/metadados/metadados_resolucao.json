@@ -1,0 +1,22 @@
+[
+  {
+    "arquivo_original": "1787764462-resoluo_n_724_2026_-_reajuste_tarifrio_-_so_carlos.pdf",
+    "arquivo_processado": "resolucao_1787764462-resoluo_n_724_2026_-_reajuste_tarifrio_-_so_carlos.txt",
+    "categoria": "resolucao",
+    "num_paginas": 8,
+    "num_caracteres": 14618,
+    "num_palavras": 2452,
+    "data_coleta": "2026-11-12",
+    "fonte": "/content/drive/MyDrive/trabalho_TCP2/Arquivo/Ares_PCJ"
+  },
+  {
+    "arquivo_original": "1678300883-resolucao_n_482_2023_-_regulamento_saae_-_sao_carlos (1).pdf",
+    "arquivo_processado": "resolucao_1678300883-resolucao_n_482_2023_-_regulamento_saae_-_sao_carlos (1).txt",
+    "categoria": "resolucao",
+    "num_paginas": 46,
+    "num_caracteres": 94812,
+    "num_palavras": 14076,
+    "data_coleta": "2026-11-12",
+    "fonte": "/content/drive/MyDrive/trabalho_TCP2/Arquivo/Ares_PCJ"
+  }
+]

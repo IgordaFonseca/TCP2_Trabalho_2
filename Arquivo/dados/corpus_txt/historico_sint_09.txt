@@ -1,0 +1,25 @@
+Assunto: 2ª via de conta
+
+Cliente 09:05
+Oi
+
+Bot 09:07
+Para obter a fatura, acesse a Agência Virtual no site do SAAE. Não conseguiu? Informe: CDC-DV; nome completo; CPF ou CNPJ; e, se quiser receber por e-mail, o endereço de e-mail.
+
+Cliente 09:09
+[CDC], [NOME]
+
+Atendente 09:11
+Boa tarde!
+
+Atendente 09:13
+Seguem a fatura e a taxa de resíduos sólidos em anexo. Confira o CDC-DV e o endereço antes de pagar. Posso ajudar em algo mais?
+
+Cliente 09:15
+Só consta essa?
+
+Atendente 09:17
+Em nome do titular, sim. A conta com vencimento em abril está retida para revisão, e a de maio ainda está em processo de leitura.
+
+Cliente 09:19
+Tá bom, obrigada

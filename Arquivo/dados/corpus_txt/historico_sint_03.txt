@@ -1,0 +1,22 @@
+Assunto: 2ª via de conta
+
+Cliente 09:05
+Oi, quero a conta
+
+Bot 09:07
+Para obter a fatura, acesse a Agência Virtual no site do SAAE. Não conseguiu? Informe: CDC-DV; nome completo; CPF ou CNPJ; e, se quiser receber por e-mail, o endereço de e-mail.
+
+Cliente 09:09
+CDC [CDC], CPF [CPF], nome [NOME]
+
+Atendente 09:11
+Bom dia! Com quem eu falo?
+
+Cliente 09:13
+[NOME]
+
+Atendente 09:15
+Segue a fatura em anexo. Confira o CDC-DV e o endereço antes de pagar. Posso ajudar em algo mais?
+
+Cliente 09:17
+Só isso, obrigado

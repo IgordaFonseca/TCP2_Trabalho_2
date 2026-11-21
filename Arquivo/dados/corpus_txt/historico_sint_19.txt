@@ -1,0 +1,16 @@
+Assunto: Exclusão de usuário
+
+Cliente 09:05
+Olá, quero tirar meu nome da conta, não moro mais no imóvel
+
+Bot 09:07
+Para exclusão de usuário, envie: documento pessoal frente e verso e o Termo de Exclusão de Usuário (anexo) preenchido à mão. Sem impressora, o termo pode ser escrito todo à mão seguindo o modelo. A data no fim do termo deve ser a data em que você deixou de ser responsável pelo imóvel.
+
+Cliente 09:09
+Enviei o documento e o termo preenchido
+
+Atendente 09:11
+Boa tarde! Exclusão concluída. Protocolo [PROTOCOLO]. Posso ajudar em algo mais?
+
+Cliente 09:13
+Era isso mesmo, obrigado

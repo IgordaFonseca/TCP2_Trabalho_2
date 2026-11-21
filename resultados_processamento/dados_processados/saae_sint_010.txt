@@ -1,0 +1,10 @@
+[CORPUS SINTÉTICO | solicitacoes | religacao]
+Procedimento para solicitação de religação do serviço de água — SAAE São Carlos:
+
+Para solicitar a religação após corte por inadimplência, o usuário deve:
+1. Quitar o débito que originou o corte (conta(s) em atraso);
+2. Apresentar o comprovante de pagamento ao SAAE, ou aguardar a compensação bancária (geralmente ocorre no dia útil seguinte ao pagamento).
+
+Após a confirmação do pagamento, a ordem de religação é gerada e o serviço é restabelecido. O prazo para religação varia conforme a demanda operacional do dia.
+
+O usuário pode solicitar a religação pelos canais de atendimento do SAAE (WhatsApp, telefone 0800 300 1520 ou presencialmente nas UAUs).

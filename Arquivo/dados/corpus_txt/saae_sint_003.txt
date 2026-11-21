@@ -1,0 +1,8 @@
+[CORPUS SINTÉTICO | contas | alteracao_cadastral]
+Procedimento para alteração cadastral (inclusão de usuário) no SAAE São Carlos:
+Para registrar a conta de água em seu nome, o solicitante deve comprovar vínculo com o imóvel:
+- Proprietários: escritura pública ou contrato de compra e venda do imóvel;
+- Inquilinos: contrato de locação vigente;
+- Sem documentação de vínculo: o solicitante pode assinar um Termo de Responsabilidade de Consumo, assumindo a titularidade e os débitos futuros a partir da data de assinatura.
+
+Para registrar a conta em nome de terceiro (sem o terceiro presente), é obrigatória a apresentação de documentação que comprove o vínculo do terceiro com o imóvel (escritura, contrato de compra e venda ou contrato de locação). Não é aceito o Termo de Responsabilidade para inclusão em nome de terceiro ausente.

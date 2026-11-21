@@ -1,0 +1,28 @@
+Assunto: Ligação nova
+
+Cliente 14:10
+Boa tarde
+
+Bot 14:12
+Tipo de vistoria: 1. Vistoria da caixa padrão 2. Vistoria para mudar categoria (comercial/residencial) 3. Vistoria de mudança de cavalete
+
+Cliente 14:14
+1
+
+Bot 14:16
+Informe o nome completo do solicitante e o CDC-DV ou o endereço do local.
+
+Cliente 14:18
+[NOME], [ENDERECO]
+
+Atendente 14:20
+Boa tarde! Com quem eu falo?
+
+Cliente 14:22
+[NOME]. Quero saber da minha solicitação de ligação nova.
+
+Atendente 14:24
+Localizei a ordem de serviço [PROTOCOLO]. A vistoria da caixa padrão foi aprovada. O prazo para executar a ligação é de até 30 dias úteis após a aprovação da vistoria.
+
+Cliente 14:26
+Certo, então é só aguardar o prazo. Obrigada

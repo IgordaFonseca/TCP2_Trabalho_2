@@ -1,0 +1,7 @@
+[CORPUS SINTÉTICO | contas | segunda_via]
+Como solicitar a 2ª via da conta de água no SAAE São Carlos:
+1. Presencialmente: em qualquer Unidade de Atendimento ao Usuário (UAU), apresentando documento de identificação.
+2. Pelo site do SAAE: fazendo login no portal com CPF e senha. Após o login, o usuário tem acesso apenas às contas vinculadas ao seu próprio CPF.
+3. Via WhatsApp: selecionando a opção '2ª via / Débitos' no menu de 'Assuntos sobre contas'.
+
+Restrição LGPD: em todos os canais, a 2ª via somente é fornecida ao titular da conta ou a pessoa que comprove vínculo com o titular (procuração, contrato de locação, etc.). Essa medida foi adotada pelo SAAE após a Lei Geral de Proteção de Dados (LGPD, Lei n.º 13.709/2018). No portal web, mesmo autenticado, o usuário acessa exclusivamente as contas registradas em seu nome.

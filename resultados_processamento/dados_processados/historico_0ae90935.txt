@@ -1,0 +1,99 @@
+Sheila Taise [TELEFONE]73
+Assunto:
+2ª via de conta
+Resumo:
+-
+Mensagens do chamado
+28/04/2026
+Início do chamado -Atendimento (Fila) - 28/04/2026 10:32:16
+Sheila Taise 10:32
+Bom dia
+Bot 10:32
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]901
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Sheila Taise 10:32
+1
+Bot 10:32
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+Sheila Taise 10:33
+3
+Bot 10:33
+Nos informe:
+- CDC-DV;
+- Nome completo;
+- CPF/ CNPJ;
+- Caso deseje envio por e-mail, informe o e-mail desejado.
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Sheila Taise 10:38
+Ernesto Pratavieira
+CPF [CPF]
+Analice 10:38
+Olá, bom dia!
+Sheila Taise 10:39
+Ernesto
+Analice 10:49
+Confirme o endereço completo
+Sheila Taise 10:49
+Ernesto Pratavieira
+Sheila Taise 10:50
+Avenida da Siriema , 10
+Condomínio Recanto dos Pássaros
+Cep 13571-874
+Analice 10:57
+Logradouro:
+Av. DA SERIEMA
+Número:
+0
+Bairro:
+RECANTO DOS PASSAROS
+Complemento:
+LOC.. QUADRA 2 LOTE 10
+CEP:
+13571-874?
+Sheila Taise 10:57
+isso
+Analice10:58
+2026.pdf
+Analice10:58
+2025.pdf
+Analice 10:58
+Segue acima as parcelas de 2025 e 2026.
+Analice 10:58
+Favor conferir o CDC-DV e o endereço antes de efetuar o
+pagamento
+Analice 10:58
+Ajudo com algo mais?
+Sheila Taise 10:59
+então la não recebemos conta do saae
+Sheila Taise 10:59
+e poço artesiano
+Sheila Taise 10:59
+como confiro o cdc-dv
+Analice 11:05
+Só identificar se o endereço está correto.
+Sheila Taise 11:06
+Blz
+Analice 11:09
+Qualquer dúvida pode retornar o contato. Bom dia!

@@ -1,0 +1,34 @@
+Assunto: 2ª via de conta
+
+Cliente 09:05
+Oi
+
+Bot 09:07
+Parcelamento: 1. Solicitar parcelamento 2. 2ª via do parcelamento
+
+Cliente 09:09
+2
+
+Bot 09:11
+Para obter a fatura, acesse a Agência Virtual no site do SAAE. Não conseguiu? Informe: CDC-DV; nome completo; CPF ou CNPJ; e, se quiser receber por e-mail, o endereço de e-mail.
+
+Cliente 09:13
+[CDC], [NOME]
+
+Atendente 09:15
+Boa tarde!
+
+Cliente 09:17
+Quero a segunda via da parcela do mês 9 do meu parcelamento
+
+Atendente 09:19
+Consta que há parcelas em atraso desde julho.
+
+Cliente 09:21
+Pode mandar mesmo assim, por favor
+
+Atendente 09:23
+Segue o carnê em anexo. Confira o CDC-DV e o endereço antes de pagar. Posso ajudar em algo mais?
+
+Cliente 09:25
+Só isso, obrigada

@@ -1,0 +1,84 @@
+Rosa [TELEFONE]45
+Assunto:
+Ordem de serviço
+Resumo:
+-
+Mensagens do chamado
+03/08/2026
+Início do chamado -Atendimento (Fila) - 03/08/2026 10:20:25
+Rosa 10:20
+Bom dia!
+Bot 10:20
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]768
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Rosa 10:20
+2
+Bot 10:20
+Por favor, selecione uma opção:
+*1.* Hidrômetro
+*2.* Desabastecimento
+*3.* Supressão
+*4.* Religação
+*5.* Ligação Nova
+*6.* Vazamento/Manutenção
+*7.* Vistoria
+*8.* Resíduos
+*0.* Retorna ao menu anterior
+Rosa 10:21
+1
+Bot 10:21
+Selecione uma opção:
+*1.* Aferição de hidrômetro
+*2.* Hidrômetro Furtado
+*3.* Hidrômetro Danificado
+*4.* Parado/embaçado
+*5.* Vazando
+*6.* Lacrar hidrômetro
+*0.* Retorna ao menu anterior
+Outras dúvidas, ligue 0800 300 1520.
+Rosa 10:21
+5
+Bot 10:21
+Por favor, digite o CDC-DV e informe o nome completo do
+solicitante.
+Se possível envie fotos e informe mais detalhes sobre o que
+aconteceu para nossa avaliação.
+Qual o volume do vazamento de água?
+Aguarde para ser atendido.
+*0.* Retornar ao menu principal
+O SAAE agradece!
+Rosa 10:22
+Rosa 10:22
+Rosa Maria Coelho Santarpio
+Rosa 10:24
+Vazamento médio de água no hidrometro
+Analice 10:30
+Olá, bom dia!
+Analice 10:30
+Por gentileza, responda essas perguntas:
+- O vazamento é próximo ao hidrômetro ou no pé do cavalete?
+- Vazamento de pequena, média ou grande proporção?
+- Ponto de referência do imóvel
+Rosa 10:33
+Rosa 10:33
+O vazamento é no hidrometro
+Rosa 10:33
+Média proporção
+Rosa 10:34
+Próximo a pista
+Analice 10:55
+Gerada ordem de serviço número: [TELEFONE]. A equipe irá
+conforme demanda.
+Analice 10:55
+Ajudo com algo mais?
+Rosa 10:57
+So isso, muito obgda

@@ -1,0 +1,6 @@
+[CORPUS SINTÉTICO | solicitacoes | ordem_servico_falta_agua]
+Ordem de Serviço para falta de água — SAAE São Carlos:
+
+Caso o usuário esteja sem abastecimento de água na residência, pode ser aberta uma Ordem de Serviço de falta de água. Para isso, basta informar o endereço completo da residência afetada através de qualquer canal de atendimento do SAAE (WhatsApp, telefone 0800 300 1520 ou presencial).
+
+O atendimento de emergência por falta de água está disponível 24 horas pelo telefone.

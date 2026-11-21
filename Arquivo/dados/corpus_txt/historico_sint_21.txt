@@ -1,0 +1,46 @@
+Assunto: Ordem de serviço
+
+Cliente 14:10
+Boa tarde
+
+Bot 14:12
+Hidrômetro: 1. Aferição 2. Furtado 3. Danificado 4. Parado ou embaçado 5. Vazando 6. Lacrar hidrômetro
+
+Cliente 14:14
+3
+
+Bot 14:16
+Informe o CDC-DV e o nome completo do solicitante e envie fotos do dano. Constatada a avaria, abriremos uma ordem de serviço e será cobrado R$ 155,03 na próxima conta.
+
+Cliente 14:18
+Na verdade é outra coisa
+
+Bot 14:20
+Hidrômetro: 1. Aferição 2. Furtado 3. Danificado 4. Parado ou embaçado 5. Vazando 6. Lacrar hidrômetro
+
+Cliente 14:22
+6
+
+Bot 14:24
+Informe o CDC-DV e o nome completo. Há um custo de R$ 21,86 para lacrar o hidrômetro, cobrado na próxima fatura.
+
+Cliente 14:26
+[NOME], CDC [CDC]. Fiz uma obra no portão e o lacre do medidor quebrou.
+
+Atendente 14:28
+Boa tarde! O lacre é da caixa padrão?
+
+Cliente 14:30
+Sim
+
+Atendente 14:32
+Prefere que a equipe vá de manhã ou à tarde?
+
+Cliente 14:34
+Manhã
+
+Atendente 14:36
+Gerada a ordem de serviço [PROTOCOLO]. A equipe irá conforme a demanda. Lembrando que o custo de R$ 21,86 será cobrado na próxima fatura.
+
+Cliente 14:38
+Não, obrigado

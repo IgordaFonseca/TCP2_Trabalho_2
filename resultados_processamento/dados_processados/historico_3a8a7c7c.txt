@@ -1,0 +1,160 @@
+José Daniel Azevedo [TELEFONE]24
+Assunto:
+Ordem de serviço
+Resumo:
+-
+Mensagens do chamado
+30/09/2026
+Início do chamado -Atendimento (Fila) - 30/09/2026 15:48:15
+José Daniel Azevedo 15:48
+Boa tarde
+Bot 15:48
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]026
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+José Daniel Azevedo 15:48
+2
+Bot 15:48
+Por favor, selecione uma opção:
+*1.* Hidrômetro
+*2.* Desabastecimento
+*3.* Supressão
+*4.* Religação
+*5.* Ligação Nova
+*6.* Vazamento/Manutenção
+*7.* Vistoria
+*8.* Resíduos
+*0.* Retorna ao menu anterior
+José Daniel Azevedo 15:48
+0
+Bot 15:49
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+José Daniel Azevedo 15:49
+1
+Bot 15:49
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+José Daniel Azevedo 15:49
+7
+Bot 15:49
+Termo_Novo.pdf
+Bot 15:49
+Para esta solicitação acesse o site:
+https://agenciavirtualsaocarlos.cebicloud.com.br/agencia/extern
+al.html#/atualizacaoCadastral.
+Não conseguiu? Nos envie:
+- Documento que vincule ao imóvel (contrato de compra e venda,
+escritura, matrícula ou contrato de locação com reconhecimento
+de firma. *Não aceitamos IPTU*) ou documento enviado acima
+preenchido manualmente;
+- Documentação pessoal (frente e verso).
+Informar também:
+- CDC-DV;
+Quando terceiros, necessário procuração com reconhecimento
+de firma.
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+José Daniel Azevedo 15:50
+Boa tarde. Gostaria de alterar a titularidade da unidade 144286-
+46
+Analice 15:52
+Olá, boa tarde!
+José Daniel Azevedo 15:53
+José Daniel Azevedo 15:53
+Gostaria de alterar a titularidade da unidade 144286-46
+José Daniel Azevedo 15:54
+Atualmente esta em nome da minha filha, mas sou eu que estou
+pagando
+Analice 15:54
+Nos envie:
+- Documento que vincule ao imóvel (contrato de compra e venda,
+escritura, matrícula ou contrato de locação com reconhecimento
+de firma. *Não aceitamos IPTU*) ou documento enviado acima
+preenchido manualmente;
+- Documentação pessoal (frente e verso).
+José Daniel Azevedo 15:55
+tentei pelo site, mas pelo telefone 0800 me orientaram fazer por
+aqui, pois o site está instável
+José Daniel Azevedo 15:55
+SAAESaoCarlos_termo_inclusao_usuario_Preenchido.pdf
+Analice 15:56
+E a documentação pessoal também, por favor
+José Daniel Azevedo 15:56
+CNH-e_JD.pdf
+Analice15:56
+Logradouro:
+Rua Episcopal
+Número:
+2600
+Bairro:
+Centro
+Complemento:
+APTO 1610?
+José Daniel Azevedo 15:57
+Exato, esse mesmo
+Analice 15:57
+O e-mail para contato seria [EMAIL]?
+José Daniel Azevedo 15:57
+Dispositivo externo 15:57
+O e-mail para contato seria [EMAIL]?
+Sim
+Analice 15:57
+Vamos encaminhar os documentos para análise do setor
+responsável, entraremos em contato com o número da ordem de
+serviço.
+Analice 15:57
+Ajudo com algo mais?
+José Daniel Azevedo 15:57
+Em quanto tempo estima que esteja alterado?
+Analice 15:58
+O procedimento é realizado conforme a demanda, não havendo
+um prazo exato. Por este canal, realizamos apenas a análise dos
+documentos e a abertura da ordem de serviço, sendo que a
+execução do procedimento é realizada por outro setor
+responsável.
+Analice 15:58
+O senhor pode retornar o contato nos próximos dias para
+verificar.
+José Daniel Azevedo 15:59
+Dispositivo externo 15:57
+Vamos encaminhar os documentos para análise do setor
+responsável, entraremos em contato com o número da ordem
+de serviço.
+Vcs enviam o numero da ordem de serviço por aqui?
+José Daniel Azevedo 16:00
+Este é o protocolo da solicitação?
+José Daniel Azevedo 16:00
+protocolo: [TELEFONE]026
+Analice 16:05
+Sim, esse é o protocolo do atendimento.
+Analice 16:05
+A ordem de serviço será encaminhada por aqui ou por e-mail.
+José Daniel Azevedo 16:06
+OK, obrigado
+Analice16:07
+Imagina, boa tarde!

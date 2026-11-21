@@ -1,0 +1,17 @@
+[CORPUS SINTÉTICO | solicitacoes | ordem_servico_vazamento]
+Ordens de Serviço para vazamentos — SAAE São Carlos:
+
+Existem ordens de serviço distintas para cada tipo de vazamento. Para todas elas, basta informar o endereço completo do local do vazamento.
+
+Vazamentos de água:
+- Vazamento de água na rua (via pública);
+- Vazamento de água na calçada;
+- Vazamento no cavalete ou caixa padrão (ponto de medição na entrada do imóvel).
+
+Vazamentos e problemas de esgoto:
+- Vazamento de esgoto na rua;
+- Vazamento de esgoto na calçada;
+- Esgoto retornando para o imóvel;
+- Esgoto entupido.
+
+Para abrir qualquer uma dessas ordens de serviço, o usuário pode entrar em contato pelos canais de atendimento do SAAE (WhatsApp, telefone ou presencialmente) e informar o endereço exato do problema.

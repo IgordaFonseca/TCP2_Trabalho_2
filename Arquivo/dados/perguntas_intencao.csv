@@ -1,0 +1,155 @@
+id,pergunta,intencao
+Q001,Como tiro a segunda via da conta de água?,conta_pagamento
+Q002,"Perdi minha conta, como consigo outra?",conta_pagamento
+Q003,"Quero pagar a conta atrasada, onde pego o boleto?",conta_pagamento
+Q004,Dá pra parcelar o débito da água?,conta_pagamento
+Q005,"Estou com 3 contas em atraso, posso negociar?",conta_pagamento
+Q006,Como cadastrar débito automático na conta de água?,conta_pagamento
+Q007,"Paguei a conta em duplicidade, como peço a devolução?",conta_pagamento
+Q008,"A conta venceu ontem, tem multa?",conta_pagamento
+Q009,Onde posso pagar a conta de água?,conta_pagamento
+Q010,Posso pagar a conta com pix?,conta_pagamento
+Q011,quero o codigo de barras da fatura,conta_pagamento
+Q012,"Minha conta não chegou esse mês, o que faço?",conta_pagamento
+Q013,Como mudo a data de vencimento da conta?,conta_pagamento
+Q014,tem como pagar a conta de agua no cartao,conta_pagamento
+Q015,Quanto tempo depois do pagamento a conta aparece como paga?,conta_pagamento
+Q016,"Recebi aviso de débito mas já paguei, e agora?",conta_pagamento
+Q017,Como faço acordo de parcelamento de dívida antiga?,conta_pagamento
+Q018,preciso da 2 via urgente,conta_pagamento
+Q019,"A conta vem em nome de outra pessoa, consigo pagar mesmo assim?",conta_pagamento
+Q020,Qual o prazo para contestar uma cobrança?,conta_pagamento
+Q021,Posso receber a conta por e-mail?,conta_pagamento
+Q022,Como consulto se tenho débito em aberto no imóvel?,conta_pagamento
+Q023,"Minha conta veio muito alta esse mês, por quê?",consumo_tarifa
+Q024,O consumo dobrou e não mudou nada em casa,consumo_tarifa
+Q025,O que é a Tarifa Social?,consumo_tarifa
+Q026,Como faço para ter direito à tarifa social?,consumo_tarifa
+Q027,Quanto custa o metro cúbico de água em São Carlos?,consumo_tarifa
+Q028,Teve reajuste na tarifa de água este ano?,consumo_tarifa
+Q029,Qual foi o percentual de aumento da tarifa?,consumo_tarifa
+Q030,"conta alta sem motivo, pode ser vazamento interno?",consumo_tarifa
+Q031,Como é calculado o valor da conta de água?,consumo_tarifa
+Q032,"O leiturista anotou errado o hidrômetro, como reclamo?",consumo_tarifa
+Q033,Por que cobram esgoto junto com a água?,consumo_tarifa
+Q034,Qual o consumo mínimo cobrado por mês?,consumo_tarifa
+Q035,Como peço uma revisão da leitura do consumo?,consumo_tarifa
+Q036,"minha conta veio 400 reais, nunca passou de 80",consumo_tarifa
+Q037,Como faço para verificar se tem vazamento dentro de casa?,consumo_tarifa
+Q038,A tarifa é diferente para comércio e residência?,consumo_tarifa
+Q039,Quem aprova o reajuste da tarifa do SAAE?,consumo_tarifa
+Q040,Tenho direito a desconto sendo de baixa renda?,consumo_tarifa
+Q041,O que significa a faixa de consumo na conta?,consumo_tarifa
+Q042,Como funciona a cobrança por estimativa quando não fazem leitura?,consumo_tarifa
+Q043,"Encheram a piscina e a conta subiu, tem desconto?",consumo_tarifa
+Q044,Qual a tarifa da categoria residencial?,consumo_tarifa
+Q045,"Cortaram minha água, como faço para religar?",corte_religacao
+Q046,Quanto tempo demora a religação depois de pagar?,corte_religacao
+Q047,"Paguei a conta, quando a água volta?",corte_religacao
+Q048,Podem cortar a água sem aviso?,corte_religacao
+Q049,"Recebi aviso de corte, o que faço?",corte_religacao
+Q050,quanto custa a taxa de religação,corte_religacao
+Q051,Cortaram a água mas a conta estava paga,corte_religacao
+Q052,Posso pedir religação no fim de semana?,corte_religacao
+Q053,Com quantas contas atrasadas cortam a água?,corte_religacao
+Q054,Como solicitar religação urgente?,corte_religacao
+Q055,"o cara veio cortar minha agua hoje, como resolvo",corte_religacao
+Q056,"Depois do corte, preciso levar comprovante de pagamento?",corte_religacao
+Q057,Tem religação no mesmo dia?,corte_religacao
+Q058,Quero suspender o fornecimento porque o imóvel vai ficar vazio,corte_religacao
+Q059,Como pedir o desligamento da ligação de água?,corte_religacao
+Q060,Minha água foi cortada por engano,corte_religacao
+Q061,Qual o prazo do aviso antes do corte por falta de pagamento?,corte_religacao
+Q062,Posso religar a água sozinho depois do corte?,corte_religacao
+Q063,"Cortaram no dia do vencimento, pode isso?",corte_religacao
+Q064,Como reativar a ligação de um imóvel desligado há anos?,corte_religacao
+Q065,religacao da agua apos pagamento,corte_religacao
+Q066,"A água foi cortada e tenho idoso em casa, tem prioridade?",corte_religacao
+Q067,Estou sem água desde manhã,falta_agua_vazamento
+Q068,Tem um vazamento na calçada da minha rua,falta_agua_vazamento
+Q069,A água está saindo barrenta da torneira,falta_agua_vazamento
+Q070,falta de agua no bairro todo,falta_agua_vazamento
+Q071,A pressão da água está muito fraca,falta_agua_vazamento
+Q072,Tem previsão de volta da água no meu bairro?,falta_agua_vazamento
+Q073,"Vazamento no cavalete antes do hidrômetro, quem conserta?",falta_agua_vazamento
+Q074,A água está com cheiro estranho,falta_agua_vazamento
+Q075,Tem um cano estourado jogando água na rua,falta_agua_vazamento
+Q076,Por que falta água toda tarde aqui?,falta_agua_vazamento
+Q077,"agua saindo marrom, posso beber?",falta_agua_vazamento
+Q078,Quero informar um vazamento em frente ao número 120,falta_agua_vazamento
+Q079,"O hidrômetro está vazando, o que faço?",falta_agua_vazamento
+Q080,Há manutenção programada na rede hoje?,falta_agua_vazamento
+Q081,Faz dois dias que não tem água na minha casa,falta_agua_vazamento
+Q082,A água está com gosto de cloro forte,falta_agua_vazamento
+Q083,O buraco do conserto do vazamento ficou aberto na rua,falta_agua_vazamento
+Q084,Tem água jorrando de uma tampa na calçada,falta_agua_vazamento
+Q085,Minha caixa d'água não enche,falta_agua_vazamento
+Q086,Sem água no condomínio inteiro,falta_agua_vazamento
+Q087,A água voltou mas está com ar nos canos,falta_agua_vazamento
+Q088,Quero agendar vistoria de vazamento,falta_agua_vazamento
+Q089,Como faço para pedir uma ligação nova de água?,cadastro_ligacao
+Q090,Quero transferir a conta para o meu nome,cadastro_ligacao
+Q091,Como trocar a titularidade da conta de água?,cadastro_ligacao
+Q092,"Vendi a casa, como tiro meu nome da conta?",cadastro_ligacao
+Q093,Quais documentos preciso para mudar o titular?,cadastro_ligacao
+Q094,Como fazer exclusão de usuário do imóvel?,cadastro_ligacao
+Q095,"Estou alugando um imóvel, preciso mudar o nome na conta?",cadastro_ligacao
+Q096,Quanto custa uma ligação nova de água?,cadastro_ligacao
+Q097,Qual o padrão de instalação do cavalete para ligação nova?,cadastro_ligacao
+Q098,Como atualizar meu telefone no cadastro?,cadastro_ligacao
+Q099,Preciso de ligação provisória para obra,cadastro_ligacao
+Q100,Como pedir a troca do hidrômetro?,cadastro_ligacao
+Q101,quero colocar a agua no nome do inquilino,cadastro_ligacao
+Q102,Como desmembrar a ligação para duas casas no mesmo terreno?,cadastro_ligacao
+Q103,Quais as regras para instalação hidráulica do imóvel?,cadastro_ligacao
+Q104,O que preciso para regularizar uma ligação clandestina?,cadastro_ligacao
+Q105,Como mudar o endereço de entrega da conta?,cadastro_ligacao
+Q106,Qual a altura correta do hidrômetro no muro?,cadastro_ligacao
+Q107,Como solicitar uma ordem de serviço?,cadastro_ligacao
+Q108,"Construí uma casa nova, como peço água?",cadastro_ligacao
+Q109,Posso ter dois hidrômetros no mesmo lote?,cadastro_ligacao
+Q110,Como faço o cadastro de um imóvel novo no SAAE?,cadastro_ligacao
+Q111,O esgoto está voltando pelo ralo,esgoto
+Q112,Tem esgoto a céu aberto na minha rua,esgoto
+Q113,A rede de esgoto entupiu na frente de casa,esgoto
+Q114,Como pedir ligação de esgoto?,esgoto
+Q115,Está saindo mau cheiro do bueiro,esgoto
+Q116,esgoto transbordando na calçada,esgoto
+Q117,Quem limpa a caixa de inspeção de esgoto?,esgoto
+Q118,O vizinho joga esgoto na galeria de chuva,esgoto
+Q119,"Meu imóvel não tem rede de esgoto, o que faço?",esgoto
+Q120,A tampa do poço de visita do esgoto quebrou,esgoto
+Q121,Tem cheiro de esgoto dentro de casa,esgoto
+Q122,Como solicitar desentupimento de esgoto?,esgoto
+Q123,esgoto voltando no vaso sanitário,esgoto
+Q124,Posso ligar a água da chuva na rede de esgoto?,esgoto
+Q125,A tarifa de esgoto é cobrada mesmo sem rede?,esgoto
+Q126,Vazamento de esgoto no meio da rua,esgoto
+Q127,Ratos saindo da rede de esgoto,esgoto
+Q128,O ramal de esgoto da minha casa está quebrado,esgoto
+Q129,Quanto custa a ligação de esgoto?,esgoto
+Q130,Esgoto correndo na sarjeta há dias,esgoto
+Q131,Qual o prazo para conserto da rede de esgoto?,esgoto
+Q132,"Fossa transbordando, o SAAE atende?",esgoto
+Q133,Como pago o IPTU?,fora_escopo
+Q134,A luz acabou na minha rua,fora_escopo
+Q135,Qual o horário do ônibus para o centro?,fora_escopo
+Q136,Como emitir a segunda via da conta de luz?,fora_escopo
+Q137,Quero reclamar do buraco no asfalto,fora_escopo
+Q138,Quando passa o caminhão de lixo no meu bairro?,fora_escopo
+Q139,Como agendar consulta no posto de saúde?,fora_escopo
+Q140,Qual a previsão do tempo para amanhã?,fora_escopo
+Q141,Como tirar a CNH?,fora_escopo
+Q142,Quero denunciar terreno baldio com mato alto,fora_escopo
+Q143,A internet da minha casa caiu,fora_escopo
+Q144,Como faço matrícula na escola municipal?,fora_escopo
+Q145,Poste de luz apagado na esquina,fora_escopo
+Q146,Como recorrer de multa de trânsito?,fora_escopo
+Q147,Onde fica o Poupatempo?,fora_escopo
+Q148,Quero pedir poda de árvore,fora_escopo
+Q149,Como consultar o FGTS?,fora_escopo
+Q150,Qual o telefone dos bombeiros?,fora_escopo
+Q151,Como pagar a conta de gás?,fora_escopo
+Q152,Quero castrar meu cachorro pela prefeitura,fora_escopo
+Q153,Como funciona a coleta seletiva de recicláveis?,fora_escopo
+Q154,Quem cuida da iluminação pública?,fora_escopo

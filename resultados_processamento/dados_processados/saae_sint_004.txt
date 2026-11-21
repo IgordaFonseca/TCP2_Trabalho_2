@@ -1,0 +1,11 @@
+[CORPUS SINTÉTICO | contas | exclusao_usuario]
+Procedimento para exclusão de usuário (encerramento de titularidade) no SAAE São Carlos:
+O solicitante deve comprovar que deixou de ter vínculo com o imóvel:
+- Proprietários: escritura de venda ou contrato de compra e venda;
+- Inquilinos: termo de entrega de chaves ou rescisão do contrato de locação.
+
+Tratamento de débitos em aberto:
+- Se a data do documento (venda ou entrega de chaves) for anterior à data dos débitos em aberto, esses débitos são retirados do nome do solicitante e transferidos ao novo titular ou proprietário atual.
+- Se não houver documento de vínculo, o solicitante assina um Termo de Encerramento. Nesse caso, a responsabilidade cessa a partir da data de assinatura, mas os débitos anteriores permanecem em seu nome.
+
+Em ambos os casos, as contas e débitos futuros passam a ser de responsabilidade do novo morador ou proprietário.

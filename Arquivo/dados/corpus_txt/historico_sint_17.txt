@@ -1,0 +1,22 @@
+Assunto: 2ª via de conta
+
+Cliente 09:05
+Oi, preciso da segunda via da conta
+
+Bot 09:07
+Para obter a fatura, acesse a Agência Virtual no site do SAAE. Não conseguiu? Informe: CDC-DV; nome completo; CPF ou CNPJ; e, se quiser receber por e-mail, o endereço de e-mail.
+
+Cliente 09:09
+[NOME], CPF [CPF], [ENDERECO]
+
+Atendente 09:11
+Bom dia! Importante: contas de anos anteriores só podem ser enviadas agrupadas, com vencimento para hoje, e por isso já incluem juros e multa. Desagrupar ou alterar o vencimento só é possível presencialmente. Deseja continuar ou prefere somente as contas deste ano?
+
+Cliente 09:13
+Sim, pode mandar
+
+Atendente 09:15
+Seguem a conta agrupada, a conta do mês e a taxa de resíduos sólidos. Confira o CDC-DV e o endereço antes de pagar. Posso ajudar em algo mais?
+
+Cliente 09:17
+Obrigada

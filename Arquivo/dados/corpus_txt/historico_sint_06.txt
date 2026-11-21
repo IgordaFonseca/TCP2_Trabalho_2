@@ -1,0 +1,25 @@
+Assunto: Ordem de serviço
+
+Cliente 09:05
+Bom dia!
+
+Bot 09:07
+Onde é o vazamento? 1. Rua 2. Calçada 3. Cavalete 4. Esgoto entupido 5. Esgoto vazando 6. Mau cheiro de esgoto 7. Troca de registro do cavalete 8. Limpeza de fossa séptica
+
+Cliente 09:09
+5
+
+Bot 09:11
+Informe o nome completo do solicitante e o CDC-DV ou o endereço do local. Se puder, envie fotos.
+
+Cliente 09:13
+[NOME], [ENDERECO]. O vazamento é na calçada: saiu esgoto com pressão de uma fissura ao lado do cano. Moro aqui há muitos anos e nunca teve problema de esgoto na rua. Acho que tem a ver com uma troca de manilha que fizeram no começo da rua há poucos dias.
+
+Atendente 09:15
+Bom dia! Esse endereço fica em São Carlos-SP?
+
+Cliente 09:17
+Não, é em outra cidade. Me passaram este número como se fosse de lá, desculpe o incômodo.
+
+Atendente 09:19
+Sem problemas! Este é o canal digital do SAAE de São Carlos-SP e não temos informações sobre outras cidades. Procure o serviço de água e esgoto do seu município.

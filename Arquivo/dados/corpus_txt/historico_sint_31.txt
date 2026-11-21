@@ -1,0 +1,40 @@
+Assunto: Ordem de serviço
+
+Cliente 09:05
+Oi
+
+Bot 09:07
+Onde é o vazamento? 1. Rua 2. Calçada 3. Cavalete 4. Esgoto entupido 5. Esgoto vazando 6. Mau cheiro de esgoto 7. Troca de registro do cavalete 8. Limpeza de fossa séptica
+
+Cliente 09:09
+2
+
+Bot 09:11
+Informe o nome completo do solicitante e o CDC-DV ou o endereço do local. Se puder, envie fotos.
+
+Cliente 09:13
+[NOME], CDC [CDC], [ENDERECO]
+
+Atendente 09:15
+Boa tarde!
+
+Cliente 09:17
+A equipe consertou um vazamento aqui e ficou de voltar no dia seguinte para fechar o buraco, mas não voltou. Amarraram a fita de sinalização na tampa do cavalete e o vento arrancou a tampa. Preciso que venham fechar o buraco e trocar a tampa. Ainda tenho ordem de serviço em aberto.
+
+Atendente 09:19
+Foi o SAAE que abriu o buraco? Ainda há vazamento aparente?
+
+Cliente 09:21
+Foi o SAAE, sim. Não há mais vazamento: uma pedra tinha cortado a mangueira. Liguei no 0800 e me pediram para mandar as fotos por aqui.
+
+Atendente 09:23
+Vou encaminhar ao setor responsável e pedir que compareçam o quanto antes. Sobre a tampa da caixa padrão: o SAAE não faz a troca, a responsabilidade é do consumidor, pois a caixa é comprada em lojas de material de construção.
+
+Cliente 09:25
+Mas quebrou por causa da fita que colocaram. E o lacre, como fica? Vou ter que pagar?
+
+Atendente 09:27
+Vamos encaminhar ao setor para verificar e, se houver posicionamento, retorno por aqui mesmo.
+
+Cliente 09:29
+Agradeço, aguardo então

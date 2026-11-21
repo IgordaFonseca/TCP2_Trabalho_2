@@ -1,0 +1,131 @@
+Silvana [TELEFONE]44
+Assunto:
+2ª via de conta
+Resumo:
+-
+Mensagens do chamado
+30/09/2026
+Início do chamado -Atendimento (Fila) - 30/09/2026 15:13:09
+Silvana 15:13
+Boa tarde
+Bot 15:13
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]006
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Silvana 15:13
+2
+Bot 15:13
+Por favor, selecione uma opção:
+*1.* Hidrômetro
+*2.* Desabastecimento
+*3.* Supressão
+*4.* Religação
+*5.* Ligação Nova
+*6.* Vazamento/Manutenção
+*7.* Vistoria
+*8.* Resíduos
+*0.* Retorna ao menu anterior
+Silvana 15:13
+1
+Bot 15:14
+Selecione uma opção:
+*1.* Aferição de hidrômetro
+*2.* Hidrômetro Furtado
+*3.* Hidrômetro Danificado
+*4.* Parado/embaçado
+*5.* Vazando
+*6.* Lacrar hidrômetro
+*0.* Retorna ao menu anterior
+Outras dúvidas, ligue 0800 300 1520.
+Silvana 15:14
+3
+Bot 15:14
+Por favor, digite o CDC-DV e informe o nome completo do
+solicitante.
+Envie fotos para análise do dano.
+Constatada a avaria, abriremos uma ordem de serviço e o valor
+cobrado na próxima conta será de R$ 155,03.
+*0.* Retornar ao menu principal
+O SAAE agradece!
+Silvana 15:14
+0
+Bot 15:14
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Silvana 15:14
+2
+Bot 15:14
+Por favor, selecione uma opção:
+*1.* Hidrômetro
+*2.* Desabastecimento
+*3.* Supressão
+*4.* Religação
+*5.* Ligação Nova
+*6.* Vazamento/Manutenção
+*7.* Vistoria
+*8.* Resíduos
+*0.* Retorna ao menu anterior
+Silvana 15:15
+1
+Bot 15:15
+Selecione uma opção:
+*1.* Aferição de hidrômetro
+*2.* Hidrômetro Furtado
+*3.* Hidrômetro Danificado
+*4.* Parado/embaçado
+*5.* Vazando
+*6.* Lacrar hidrômetro
+*0.* Retorna ao menu anterior
+Outras dúvidas, ligue 0800 300 1520.
+Silvana 15:15
+6
+Bot 15:15
+Por favor, digite o CDC-DV e informe seu nome completo.
+Lembrando que há um custo de *R$ 21,86* que será cobrado na
+sua próxima fatura.
+Aguarde para ser atendido!
+Silvana 15:16
+Manoel Barbosa Ferreira filho cdc109878
+Analice 15:16
+Olá, boa tarde!
+Silvana 15:16
+Alice
+Analice 15:17
+Em que posso ajudar?
+Silvana 15:17
+Fiz obra no portão e quebrou lacre do meu medidor
+Silvana 15:19
+?
+Analice 15:19
+Por favor, informe o melhor período para que a equipe realize o
+procedimento.
+Prefere o período da manhã ou tarde?
+Silvana 15:19
+Manhã
+Analice 15:21
+O lacre é da caixa padrão?
+Silvana 15:21
+Sim
+Analice 15:23
+Gerada ordem de serviço número: [TELEFONE]. A equipe irá
+conforme demanda.
+Analice 15:23
+Lembrando que há um custo de *R$ 21,86* que será cobrado na
+sua próxima fatura.
+Analice 15:23
+Ajudo com algo mais?
+Silvana 15:23
+Não obrigado

@@ -1,0 +1,6 @@
+[CORPUS SINTÉTICO | contas | conta_alta_procedimento]
+Procedimento para atendimento de reclamação de conta alta no SAAE São Carlos:
+1. Verificação da leitura: o atendente consulta as fotos periódicas registradas pelo leiturista no sistema para confirmar se a leitura do hidrômetro está correta. O usuário também pode ser orientado a enviar uma foto atual do hidrômetro para comparação.
+2. Descartado erro de leitura: orienta-se o usuário sobre como identificar e localizar vazamentos internos (ver procedimento de variação de consumo).
+3. Se houve desabastecimento no período: caso o usuário informe que faltou água na residência durante o período faturado, pode haver alteração na medição causada pela interrupção do abastecimento. Nesse caso, é aberta uma análise por desabastecimento.
+4. Aferição do hidrômetro: como última alternativa, o usuário pode solicitar a aferição do hidrômetro. Se o equipamento apresentar defeito, é trocado gratuitamente e o valor da conta é recalculado. Se o hidrômetro estiver funcionando corretamente, é cobrada uma taxa de aferição (valor vigente em 2023: R$ 126,00; consultar valor atual junto ao SAAE).

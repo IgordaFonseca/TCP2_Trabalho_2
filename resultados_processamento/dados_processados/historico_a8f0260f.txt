@@ -1,0 +1,104 @@
+Lucas Antônio [TELEFONE]46
+Assunto:
+Exclusão de usuário
+Resumo:
+-
+Mensagens do chamado
+26/06/2026
+Início do chamado -Atendimento (Fila) - 26/06/2026 15:06:12
+Lucas Antônio 15:06
+Boa tarde
+Bot 15:06
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]362
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Lucas Antônio 15:06
+1
+Bot 15:06
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+Lucas Antônio 15:06
+8
+Bot 15:06
+Por favor, selecione a opção desejada:
+*1.* Sou proprietário
+*2.* Sou inquilino
+*3.* Sou imobiliária
+*0.* Retornar ao menu principal
+Lucas Antônio 15:07
+2
+Bot 15:07
+Exclusão-de-Usuário.pdf
+Bot 15:07
+Favor enviar:
+- Documento pessoal frente e verso;
+- Termo de exclusão de usuário preenchido manualmente
+(arquivo acima). Caso não possua meio para impressão e
+preenchimento manual, o termo poderá ser feito todo
+manualmente, desde que siga o modelo enviado.
+*OBS:* a data ao final do documento deve ser a data que deixou
+de ser responsável pelo imóvel.
+Caso queira retornar ao menu principal digite o número *0.*
+Após os envios aguarde, que logo será atendido.
+Lucas Antônio 15:08
+CNH-e.pdf.pdf
+CNH-e.pdf.pdf
+Lucas Antônio 15:08
+Exclusão-de-Usuário-(2).pdf
+Analice 15:14
+Olá, boa tarde!
+Lucas Antônio 15:15
+Ola Analice
+Lucas Antônio 15:15
+aqui é o Lucas
+Lucas Antônio 15:15
+nos falamos a pouco, retornei com o documento preenchido aqui
+Analice15:17
+Olá!
+Analice 15:17
+Logradouro:
+Rua Salomao Dibbo
+Número:
+430
+Bairro:
+Jardim Lutfalla
+Complemento:
+ap 22?
+Analice 15:19
+Exclusão realizada. Chamado: [TELEFONE]
+Analice 15:19
+Ajudo com algo mais?
+Lucas Antônio 15:25
+isso
+Lucas Antônio 15:25
+esta feito entao? pago a fatir
+Lucas Antônio 15:26
+*pago a fatura atual e nao havera outra pra pagar certo?
+Analice15:44
+Correto
+Analice 15:45
+A última conta de sua responsabilidade será a ref 06/2026 com
+vencimento em julho.
+Lucas Antônio 15:47
+paguei essa ja obrigado
+Analice15:59
+Imagina, boa tarde!

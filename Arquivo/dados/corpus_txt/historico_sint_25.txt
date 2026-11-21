@@ -1,0 +1,13 @@
+Assunto: Exclusão de usuário
+
+Cliente 09:05
+Olá, sou o proprietário e o inquilino saiu do imóvel
+
+Bot 09:07
+Para excluir o locatário, informe: nome completo do proprietário; nome completo do locatário; CPF e RG do locatário; telefone e e-mail do locatário; período da locação; CDC-DV; e endereço.
+
+Cliente 09:09
+Proprietário: [NOME]. Locatário: [NOME], CPF [CPF]. Período da locação: dezembro de 2023 a junho de 2026. CDC [CDC]. Endereço [ENDERECO].
+
+Atendente 09:11
+Boa tarde! Exclusão realizada. Chamado [PROTOCOLO]. Posso ajudar em algo mais?

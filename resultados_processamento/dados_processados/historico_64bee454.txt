@@ -1,0 +1,90 @@
+Miriã [TELEFONE]53
+Assunto:
+Ordem de serviço
+Resumo:
+-
+Mensagens do chamado
+01/09/2026
+Início do chamado -Atendimento (Fila) - 01/09/2026 08:01:45
+Miriã 08:01
+Bom dia! Gostaria de solicitar uma reparação de vazamento do
+Saae em nossa residência.
+Bot 08:01
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]713
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Miriã 08:02
+2
+Bot 08:02
+Por favor, selecione uma opção:
+*1.* Hidrômetro
+*2.* Desabastecimento
+*3.* Supressão
+*4.* Religação
+*5.* Ligação Nova
+*6.* Vazamento/Manutenção
+*7.* Vistoria
+*8.* Resíduos
+*0.* Retorna ao menu anterior
+Miriã 08:02
+6
+Bot 08:02
+Nos informe onde é o vazamento:
+*1.* Vazamento na rua
+*2.* Vazamento na calçada
+*3.* Vazamento no cavalete
+*4.* Esgoto entupido
+*5.* Esgoto vazando
+*6.* Esgoto mau cheiro
+*7.* Troca de registro do cavalete
+*8.* Limpeza de fossa séptica
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Miriã 08:06
+2
+Bot 08:06
+Favor informar:
+- Nome completo do solicitante;
+- CDC-DV ou endereço do local;
+- Se possível envie fotos para análise (opcional).
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Miriã 08:07
+Tiago Bravin
+119288-46
+Miriã 08:07
+Analice 08:08
+Olá, bom dia!
+Analice 08:08
+Por gentileza, responda essas perguntas:
+- O vazamento é no asfalto ou calçada?
+- Informe o endereço completo
+- O vazamento é de água limpa ou esgoto?
+- Vazamento de pequena, média ou grande proporção?
+- Ponto de referência do imóvel
+Miriã 08:12
+Bom dia!
+Aqui é a Miriã.
+Calçada.
+Rua Alameda das gardênias ,0501 casa 10 Parque Faber III ,
+13560-000
+Água limpa
+Média proporção
+Condomínio Faber 3 casa i-10
+Analice 08:14
+Gerada ordem de serviço número: [TELEFONE]. A equipe irá
+conforme demanda.
+Analice 08:14
+Ajudo com algo mais?
+Miriã 08:14
+Ok! Obrigada , bom dia.
+Analice08:16
+Imagina, bom dia.

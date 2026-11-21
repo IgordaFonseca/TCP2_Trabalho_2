@@ -1,0 +1,102 @@
+Viviane [TELEFONE]43
+Assunto:
+Robô
+Resumo:
+-
+Mensagens do chamado
+01/07/2026
+Início do chamado -Atendimento (Fila) - 01/07/2026 12:21:20
+Viviane 12:21
+Oo
+Viviane 12:21
+Oi
+Bot 12:21
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]466
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Bot 12:21
+Desculpe, não entendi. Por favor, digite uma das opções acima!
+Viviane 12:21
+2
+Bot 12:21
+Por favor, selecione uma opção:
+*1.* Hidrômetro
+*2.* Desabastecimento
+*3.* Supressão
+*4.* Religação
+*5.* Ligação Nova
+*6.* Vazamento/Manutenção
+*7.* Vistoria
+*8.* Resíduos
+*0.* Retorna ao menu anterior
+Viviane 12:21
+6
+Bot 12:21
+Nos informe onde é o vazamento:
+*1.* Vazamento na rua
+*2.* Vazamento na calçada
+*3.* Vazamento no cavalete
+*4.* Esgoto entupido
+*5.* Esgoto vazando
+*6.* Esgoto mau cheiro
+*7.* Troca de registro do cavalete
+*8.* Limpeza de fossa séptica
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Viviane 12:21
+2
+Bot 12:21
+Favor informar:
+- Nome completo do solicitante;
+- CDC-DV ou endereço do local;
+- Se possível envie fotos para análise (opcional).
+*0.* Retornar ao menu principal
+Aguarde para ser atendido.
+Viviane 12:22
+Não é na minha residência
+Analice 12:28
+Olá, boa tarde!
+Analice 12:28
+Por gentileza, responda essas perguntas:
+- O vazamento é no asfalto ou calçada?
+- Informe o endereço completo
+- O vazamento é de água limpa ou esgoto?
+- Vazamento de pequena, média ou grande proporção?
+- Ponto de referência do imóvel
+Viviane 12:28
+Calçada
+Viviane 12:29
+Água limpa
+Viviane 12:29
+Grande
+Viviane 12:30
+Rua Hipólito José da Costa esquina com a rua João Nonato ,
+próximo a escola Marilene Terezinha Longuim
+Analice 12:34
+Qual o número do imóvel?
+Viviane 12:35
+É um imóvel abandonado antigamente era n 140 A
+Analice 12:39
+Logradouro:
+Rua Hipolito José da Costa
+Número:
+0140
+Bairro:
+Jardim Real?
+Viviane 12:40
+Isso
+Viviane 12:40
+Casa da esquina
+Analice 12:41
+Gerada ordem de serviço número: [TELEFONE]. A equipe irá
+conforme demanda.
+Analice 12:41
+Ajudo com algo mais?

@@ -1,0 +1,157 @@
+Mari Roman [TELEFONE]70
+Assunto:
+Ordem de serviço
+Resumo:
+-
+Mensagens do chamado
+21/10/2026
+Início do chamado -Atendimento (Fila) - 21/10/2026 08:44:54
+Mari Roman 08:44
+Oi
+Bot 08:44
+Olá, seja bem-vindo ao atendimento do *SAAE de São Carlos*
+Anote seu protocolo: [TELEFONE]805
+Você também pode ser atendido através do telefone 0800 300
+1520
+Para agilizar o atendimento, tenha em mãos o CPF do
+responsável pelo imóvel, endereço e uma conta de água para
+informar seu CDC-DV.
+*Digite por favor o número correspondente à opção desejada:*
+*1.* Assuntos sobre contas
+*2.* Solicitações e Ordem de Serviços
+*3.* Atendimento presencial
+Mari Roman 08:45
+1
+Bot 08:45
+Por favor, selecione uma opção:
+*1.* Revisão de Contas
+*2.* 2ª via / Débitos
+*3* 2ª via taxa do Resíduos Sólidos
+*4.* Alteração de vencimento
+*5.* Cancelamento de débito automático
+*6.* Agrupamento de contas
+*7.* Alteração de titularidade
+*8.* Exclusão de usuário
+*9.* Tarifa Social
+*10.* Parcelamento
+*11.* Alteração de endereço de entrega
+*0.* Retorna ao menu anterior
+Mari Roman 08:45
+1
+Bot 08:45
+Qual o motivo da solicitação de revisão?
+*1.* Vazamento
+*2.* Aferição de hidrômetro
+*3.* Falta de água/ desabastecimento
+*4.* Erro de leitura
+*5.* Categoria residencial/ comercial
+*6.* Encerrar conversa
+*0.* Retornar ao menu principal
+Mari Roman 08:45
+1
+Bot 08:45
+*Caso seja por dano na boia da caixa dʼágua ou na boia da caixa
+acoplada, o solicitante deve apresentar nota fiscal da compra e a
+foto da boia é obrigatória.*
+Favor informar:
+- CDC-DV;
+- Quais contas deseja incluir na revisão.
+Nos encaminhar:
+- Laudo do conserto do vazamento (imagem enviada abaixo,
+necessário assinatura manual. Caso não tenha como imprimir,
+poderá ser feito todo manualmente desde que contenha TODAS
+as informações pedidas no modelo);
+- Fotos do conserto do vazamento;
+- Documento que vincule ao imóvel (contrato de compra e venda,
+escritura, matrícula ou contrato de locação com reconhecimento
+de firma. Não aceitamos IPTU) *Caso não tenha o nome em
+conta*;
+- Documento pessoal (frente e verso).
+*Fotos nítidas ou documentos escaneados, de preferência.*
+Quando terceiros, necessário procuração com reconhecimento
+de firma.
+Envie *0* para voltar ao menu.
+Bot 08:45
+DECLARAÇÃO-DE-CONSERTO-DE-VAZAMENTO.pdf
+Mari Roman 08:47
+135940-18
+Conta de outubro 2026
+Mari Roman 08:48
+Referência 09/2026
+N. 1173907
+Vcto 20/10
+Analice 08:55
+Olá, bom dia!
+Mari Roman 08:59
+Mari Roman
+Analice 09:01
+Nos encaminhar:
+- Laudo do conserto do vazamento (imagem enviada abaixo,
+necessário assinatura manual. Caso não tenha como imprimir,
+poderá ser feito todo manualmente desde que contenha TODAS
+as informações pedidas no modelo);
+- Fotos do conserto do vazamento;
+- Documento que vincule ao imóvel (contrato de compra e venda,
+escritura, matrícula ou contrato de locação com reconhecimento
+de firma. Não aceitamos IPTU) *Caso não tenha o nome em
+conta*;
+- Documento pessoal (frente e verso).
+*Fotos nítidas ou documentos escaneados, de preferência.*
+Mari Roman 09:06
+Substituição da torneira
+Analice 09:10
+No aguardo do envio de todas as documentações.
+Mari Roman 09:18
+Mari Roman 09:22
+Mari Roman 09:23
+CNH-e.pdf.pdf
+Mari Roman 09:25
+Analice 09:29
+Qual o vínculo da senhora com o imóvel?
+Mari Roman 09:30
+Sou a dona. Mulher do Fernando
+Analice 09:32
+Vamos precisar que encaminhe a sua documentação pessoal e a
+Certidão de casamento, pois é a solicitante
+Analice 09:32
+E um e-mail para contato
+Mari Roman 09:32
+Ok
+Mari Roman 09:32
+[EMAIL]
+Mari Roman 09:34
+Mari Roman 09:34
+Analice 09:36
+Logradouro:
+Rua Via de Acesso 14
+Número:
+0285
+Bairro:
+Cond. Resid. Damha III?
+Analice 09:36
+Deseja revisar apenas o vencimento 20/10/2026?
+Mari Roman 09:36
+Sim
+Mari Roman 09:37
+Dispositivo externo09:36
+Logradouro:
+Rua Via de Acesso 14
+Número:
+0285
+Bairro:
+Cond. Resid. Damha III?
+Sim
+Analice 09:37
+Vamos encaminhar os documentos para análise do setor
+responsável, entraremos em contato com o número da ordem de
+serviço.
+Mari Roman 09:37
+Dispositivo externo 09:36
+Deseja revisar apenas o vencimento 20/10/2026?
+Sim
+Analice 09:37
+Ajudo com algo mais?
+Mari Roman 09:37
+Somente isso. Mto obrigada
+Analice09:37
+Imagina, bom dia!
